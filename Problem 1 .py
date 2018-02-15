@@ -9,4 +9,4 @@ def find_last(ss,ts):
 
 
 print find_last("aaaa","a")
-print find_last("zezezezezezeez","ez")
+print find_last("zeez","ez")
